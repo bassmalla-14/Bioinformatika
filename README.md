@@ -1,0 +1,2 @@
+repositori untuk praktikum Bioinformatika
+bismillah
